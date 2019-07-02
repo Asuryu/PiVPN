@@ -73,7 +73,7 @@ Next you will have to choose a DNS provider for your VPN.
 > Now you can move on to creating user profiles!
 
 # Create profiles for each VPN user in the CLI
-An .ovpn file is a file which contains the user credentials and settings (profile).  
+A .ovpn file is a file which contains the user credentials and settings (profile).  
 This file can be created using _**pivpn add**_ and then you just need to follow the CLI instructions regarding the username, the password, etc...
   
   
