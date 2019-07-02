@@ -1,4 +1,4 @@
-# VPNPi
+# PiVPN
 A VPN service running on a Raspberry Pi developed by a student on an internship to Portsmouth.
 
 # Why would you want a VPN?
