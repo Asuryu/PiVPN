@@ -115,6 +115,6 @@ To connect to your VPN through your desktop you need to install OpenVPN Connect:
 
 # Conclusion and Webgraphy
 Thanks to Comparitech's Article writen by [Aaron Phillips](https://www.comparitech.com/author/aaron/) I was able to create a VPN with Raspberry Pi.  
-If you need aditional help regarding the setup of the VPN be sure to check their article [here](https://www.comparitech.com/blog/vpn-privacy/raspberry-pi-vpn).
+If you need aditional help regarding the setup of the VPN be sure to check his article [here](https://www.comparitech.com/blog/vpn-privacy/raspberry-pi-vpn).
 ##
 ![](https://cdn.comparitech.com/wp-content/uploads/2018/07/How-to-turn-your-Raspberry-Pi-into-a-VPN-server-1.jpg)
